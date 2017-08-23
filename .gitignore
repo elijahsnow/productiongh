@@ -1,0 +1,4 @@
+.DS-Store
+.png, .svg, .jpg, .jpeg
+images/*
+fonts/*
